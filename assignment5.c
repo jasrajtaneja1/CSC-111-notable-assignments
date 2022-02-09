@@ -1,6 +1,4 @@
-//Author: Jasraj Taneja
-//Student Number:V00942510
-
+//csc 111 assignment 5, created casino dice game
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
