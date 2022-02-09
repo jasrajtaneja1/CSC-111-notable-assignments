@@ -1,3 +1,5 @@
+// csc 111 assignment 9, had to analye and extract file date to present required output
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
